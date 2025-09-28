@@ -1,0 +1,41 @@
+EmployeeID,Name,StartDate,Position,Department,Manager,Status,OrientationComplete,DocumentsSubmitted,TrainingCompletionDate,Comments
+E001,Sydney Moore,2025-05-23,HR Specialist,Human Resources,Morgan Garcia,In Progress,False,True,,Training completed
+E002,Quinn Jones,2025-08-06,Software Engineer,Engineering,Sydney Johnson,Completed,True,True,2025-09-28,HR meeting done
+E003,Avery Miller,2025-05-01,Software Engineer,Data,Peyton Martin,Completed,True,True,2025-07-20,Welcome aboard!
+E004,Quinn Brown,2025-05-08,HR Specialist,Marketing,Peyton White,Onboarding,True,True,,Welcome aboard!
+E005,Jordan Wilson,2025-06-24,Software Engineer,Project Management,Morgan Anderson,Completed,True,False,2025-07-23,Welcome aboard!
+E006,Alex Jones,2025-06-09,Software Engineer,Sales,Avery Moore,Completed,False,True,2025-07-29,HR meeting done
+E007,Jordan Johnson,2025-09-11,Data Analyst,Human Resources,Robin Anderson,Onboarding,True,True,,Welcome aboard!
+E008,Dylan Brown,2025-07-25,Data Analyst,Project Management,Lee Jones,Completed,True,True,2025-09-28,Pending paperwork
+E009,Morgan Taylor,2025-06-03,Software Engineer,Sales,Morgan Moore,Onboarding,True,True,,Training completed
+E010,Skyler Jackson,2025-05-11,HR Specialist,Engineering,Jamie Smith,In Progress,False,False,,Pending paperwork
+E011,Taylor Martin,2025-04-06,Project Manager,Project Management,Cameron Martin,In Progress,False,True,,
+E012,Alex Martinez,2025-08-09,Project Manager,Human Resources,Taylor Williams,Completed,False,False,2025-09-28,Orientation scheduled
+E013,Quinn Hernandez,2025-06-19,Data Analyst,Project Management,Dylan Wilson,Completed,False,False,2025-07-06,Badge issued
+E014,Lee Rodriguez,2025-05-31,HR Specialist,Engineering,Alex Smith,Onboarding,True,False,,Orientation scheduled
+E015,Kris Thomas,2025-09-28,Marketing Coordinator,Project Management,Morgan Williams,Onboarding,True,True,,Welcome aboard!
+E016,Kris Rodriguez,2025-06-17,Software Engineer,Project Management,Taylor Brown,Completed,False,True,2025-08-06,Pending paperwork
+E017,Morgan Thomas,2025-09-08,Marketing Coordinator,Data,Cameron Anderson,Completed,True,True,2025-09-28,Training completed
+E018,Dylan Martin,2025-05-21,Marketing Coordinator,Marketing,Peyton Johnson,Onboarding,False,True,,Pending paperwork
+E019,Robin Thomas,2025-08-08,Software Engineer,Data,Quinn Rodriguez,Onboarding,True,False,,Badge issued
+E020,Jessie Johnson,2025-06-17,Sales Representative,Engineering,Morgan Thompson,Completed,True,True,2025-07-30,Badge issued
+E021,Morgan Miller,2025-05-25,Software Engineer,Human Resources,Kris Martinez,In Progress,True,True,,Training completed
+E022,Jessie Rodriguez,2025-08-30,HR Specialist,Data,Peyton Hernandez,Completed,False,False,2025-09-28,Orientation scheduled
+E023,Drew Wilson,2025-04-05,HR Specialist,Project Management,Quinn Taylor,Onboarding,True,False,,
+E024,Sam Thomas,2025-05-14,Marketing Coordinator,Marketing,Jordan Taylor,Onboarding,True,True,,HR meeting done
+E025,Jordan Miller,2025-08-24,Sales Representative,Engineering,Lee Williams,Onboarding,True,True,,Training completed
+E026,Skyler Rodriguez,2025-06-13,Data Analyst,Engineering,Morgan Rodriguez,In Progress,True,True,,Welcome aboard!
+E027,Morgan Garcia,2025-05-29,Project Manager,Marketing,Avery Johnson,Onboarding,True,True,,Pending paperwork
+E028,Taylor Miller,2025-08-20,Sales Representative,Marketing,Taylor Moore,Onboarding,True,False,,Awaiting equipment
+E029,Drew Anderson,2025-09-18,Data Analyst,Project Management,Lee White,Onboarding,True,True,,Training completed
+E030,Pat Thompson,2025-07-09,Data Analyst,Sales,Lee Jackson,Completed,True,True,2025-08-07,Welcome aboard!
+E031,Sam Jones,2025-09-25,Sales Representative,Human Resources,Peyton Rodriguez,In Progress,False,False,,Awaiting equipment
+E032,Alex White,2025-08-03,Marketing Coordinator,Project Management,Avery Smith,In Progress,False,True,,Pending paperwork
+E033,Alex Martinez,2025-04-23,Sales Representative,Sales,Quinn Jones,In Progress,True,False,,Orientation scheduled
+E034,Drew Rodriguez,2025-05-20,Marketing Coordinator,Engineering,Kris Moore,Onboarding,False,False,,Pending paperwork
+E035,Drew Thomas,2025-06-27,Sales Representative,Data,Peyton Brown,In Progress,False,True,,Training completed
+E036,Taylor White,2025-08-30,Project Manager,Human Resources,Quinn Thomas,Completed,False,True,2025-09-28,Training completed
+E037,Skyler Martin,2025-09-20,HR Specialist,Project Management,Avery Martinez,In Progress,True,True,,
+E038,Robin Davis,2025-09-27,Marketing Coordinator,Engineering,Drew Martin,Completed,False,False,2025-09-28,
+E039,Kris Brown,2025-04-06,Sales Representative,Data,Taylor Martin,Onboarding,False,True,,Awaiting equipment
+E040,Casey Jones,2025-07-03,Data Analyst,Sales,Jordan Miller,In Progress,True,True,,Needs ID card
